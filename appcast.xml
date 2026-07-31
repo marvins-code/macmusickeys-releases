@@ -8,7 +8,7 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://updates.macmusickeys.com/MacMusicKeys-0.2.1.dmg" length="4045842" type="application/octet-stream" sparkle:edSignature="57d5AXRdWH+NWVFtNsR4eci4hqw+37rzAqGnYw0GMrJjx9FbGFFWGaoIoJuQTurKcsluNhS2EuoUjPs9W7asAA=="/>
+            <enclosure url="https://updates.macmusickeys.com/MacMusicKeys-0.2.1.dmg" length="4051098" type="application/octet-stream" sparkle:edSignature="9pJnQTc9zsqPTgoexAk0bnqlNfH+82ee7TrXoMS6lOI65YyT4iIIvMmmipB73F4kwzXzpfZO/XPB7jGOLyrhDg=="/>
             <sparkle:deltas>
                 <enclosure url="https://updates.macmusickeys.com/MacMusicKeys3-1.delta" sparkle:deltaFrom="1" length="2158486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DwUmQxFVR2AkekDfgbfS+yjeOIDCVLnJ4B/bToFMU169HXiLH9QrfbIAMqRQUmxrC2RZfP2UcfgtIEUqo94RDg=="/>
             </sparkle:deltas>
