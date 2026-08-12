@@ -5,13 +5,13 @@
         <item>
             <title>1.0.0</title>
             <pubDate>Sun, 09 Aug 2026 18:18:54 -0400</pubDate>
-            <sparkle:version>20260809</sparkle:version>
+            <sparkle:version>20260812</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://updates.macmusickeys.com/MacMusicKeys-1.0.0.dmg" length="4098270" type="application/octet-stream" sparkle:edSignature="34sMh1hgHsh8ojG25rOw5J37yozoZZhPUnwrxB9AE4lviHlscaisnqXKeq/dDScS+R1JJQRBnfsE5Az3Z0yzCQ=="/>
+            <enclosure url="https://updates.macmusickeys.com/MacMusicKeys-1.0.0.dmg" length="4105075" type="application/octet-stream" sparkle:edSignature="L++d35x2rBOJO5cCiQj81J6F9AhdYhqwMTINr4sUI3rRj5+a6Gi6lCPh7zI+E4myvRxStjwsAJwPpvZr9N/CAQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://updates.macmusickeys.com/MacMusicKeys20260809-3.delta" sparkle:deltaFrom="3" length="256826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="B3sfvY6gJvi8BZWWtbGPdy3mO0Qs8rK+SK1+5lGBVNiJJSuTHRTgMe0K42m+Eclo/w05vfW6iNlWyi+IjyBdDA=="/>
-                <enclosure url="https://updates.macmusickeys.com/MacMusicKeys20260809-1.delta" sparkle:deltaFrom="1" length="2210134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5VU/Yx0ypchDBJW+lZi7e0RGZQWXnqSKyGh0Cx3WVuSwuLxpiQdgIIDX9iOemjBfQkssB07L0R2ORzaWuKc5Ag=="/>
+                <enclosure url="https://updates.macmusickeys.com/MacMusicKeys20260812-3.delta" sparkle:deltaFrom="3" length="262154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7VVW3EKShjCf/xoX9Ajf6kqYtFq6rH0CGWAA52WD3efxzaYUygMvLYrXv2EHpbxNGlZsQrpMvazQ6bZOEfhjDg=="/>
+                <enclosure url="https://updates.macmusickeys.com/MacMusicKeys20260812-1.delta" sparkle:deltaFrom="1" length="2215738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ak1aqkF5szpoDECp6o1FcrcSc04HTGMOKN9/43VCDPr8X6v/JF/81JyVitu3Jh+1gBpPD1UH8G6X3/vOQsitCA=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -23,17 +23,6 @@
             <enclosure url="https://updates.macmusickeys.com/MacMusicKeys-0.2.1.dmg" length="4051098" type="application/octet-stream" sparkle:edSignature="9pJnQTc9zsqPTgoexAk0bnqlNfH+82ee7TrXoMS6lOI65YyT4iIIvMmmipB73F4kwzXzpfZO/XPB7jGOLyrhDg=="/>
             <sparkle:deltas>
                 <enclosure url="https://updates.macmusickeys.com/MacMusicKeys3-1.delta" sparkle:deltaFrom="1" length="2158486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DwUmQxFVR2AkekDfgbfS+yjeOIDCVLnJ4B/bToFMU169HXiLH9QrfbIAMqRQUmxrC2RZfP2UcfgtIEUqo94RDg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Sat, 25 Jul 2026 11:01:25 -0400</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://updates.macmusickeys.com/MacMusicKeys-0.2.0.dmg" length="4191906" type="application/octet-stream" sparkle:edSignature="XcAmkF1xbvq5SqnaSUSYYGrrCdsi9IhTpVksZZU90GCvqdqlffBRdKM1T1065Go1zcWy/DDGe1DZRFelMhNzDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://updates.macmusickeys.com/MacMusicKeys2-1.delta" sparkle:deltaFrom="1" length="2155046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NgYLl+ST3H4Kz8928SC8unDSdHlfeSJ/aRHy690Vn4HhWBsw4KvddqCCUcs7KbQ5MO73Tu8RX+EuhCfWXGXzDQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
