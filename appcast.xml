@@ -3,6 +3,21 @@
     <channel>
         <title>MacMusicKeys</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Sun, 16 Aug 2026 19:30:43 -0400</pubDate>
+            <sparkle:version>20260816</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://updates.macmusickeys.com/MacMusicKeys-1.1.1.dmg" length="4102242" type="application/octet-stream" sparkle:edSignature="1/ebEdNUtQNuCt2k15BXVIGcH2OveaBdJlHwDjWkXLOZTYNjX3k4u3sLxjkPwjwtX4nYVC+cJPholN5cGmbQBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://updates.macmusickeys.com/MacMusicKeys20260816-20260815.1.delta" sparkle:deltaFrom="20260815.1" length="151506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EQKd0blvE4vSlQcJotrLc9dl5DCb9OFKHMaAXtuGPYrIwIkjr1xLpDr7hK1DlBKyxVMjA3N1AD0BuvA2pU55Ag=="/>
+                <enclosure url="https://updates.macmusickeys.com/MacMusicKeys20260816-20260815.delta" sparkle:deltaFrom="20260815" length="167994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Amlv4lI91bRwHdlj+vBxgbkkCqM0XM/BturpUD7eSjY7NsLRoBafxjyZBvhMuQJmHVwJL+iwjm6kkTn5Z9YtDg=="/>
+                <enclosure url="https://updates.macmusickeys.com/MacMusicKeys20260816-20260812.delta" sparkle:deltaFrom="20260812" length="210226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vCgycev07suJEQQvdFqOcDvZ/mPvZqNXeFnO9gE/CU+DnfWvV4utHEWgVichfkBfAEwT1Pf04Jje1QFqFIVFDA=="/>
+                <enclosure url="https://updates.macmusickeys.com/MacMusicKeys20260816-3.delta" sparkle:deltaFrom="3" length="292050" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PQuHPVWCU6xsSlfrSmrNZpLHhbJqdUNeZTRkRAlotlDCeWaqeqYf0tZBM0jnedS2UQ7pfbuoGjZtSqNmf74UDg=="/>
+                <enclosure url="https://updates.macmusickeys.com/MacMusicKeys20260816-1.delta" sparkle:deltaFrom="1" length="2222130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5o5OP6e9Bb0M0drwfAO6b1F8JHwqWkaA8x7eo8ELWa8Rm96F0kowNYTH2kGPQ/K8ulCWidjYlrkGjlvEHfeTAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Sat, 15 Aug 2026 22:06:09 -0400</pubDate>
             <sparkle:version>20260815.1</sparkle:version>
@@ -27,18 +42,6 @@
                 <enclosure url="https://updates.macmusickeys.com/MacMusicKeys20260815-20260812.delta" sparkle:deltaFrom="20260812" length="174018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+mCAJH7s9IwYTkol/ahwh5HopPDREzCJADZssJPNbdgYeJu0bfXuiV0EilCFtdwtoWqwJLhPS/47hcfv48JODA=="/>
                 <enclosure url="https://updates.macmusickeys.com/MacMusicKeys20260815-3.delta" sparkle:deltaFrom="3" length="271982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wyne63xESIjr4GCHJL3wAdpO22IJIalNipXnd/90UP4PrREfWLl4hk3tHzV1Pnm4UiQsYfnMk7kx9PtcSZayDQ=="/>
                 <enclosure url="https://updates.macmusickeys.com/MacMusicKeys20260815-1.delta" sparkle:deltaFrom="1" length="2208634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Qg1iXn4h3FppASehAhsFc2lfMpYJvYwq4b9+vzpc7zHvNg3WXPOYmFkdEfmvmyEdAo4N0p1BsnWJeVzQghc8DA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sun, 09 Aug 2026 18:18:54 -0400</pubDate>
-            <sparkle:version>20260812</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://updates.macmusickeys.com/MacMusicKeys-1.0.0.dmg" length="4105075" type="application/octet-stream" sparkle:edSignature="L++d35x2rBOJO5cCiQj81J6F9AhdYhqwMTINr4sUI3rRj5+a6Gi6lCPh7zI+E4myvRxStjwsAJwPpvZr9N/CAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://updates.macmusickeys.com/MacMusicKeys20260812-3.delta" sparkle:deltaFrom="3" length="262154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7VVW3EKShjCf/xoX9Ajf6kqYtFq6rH0CGWAA52WD3efxzaYUygMvLYrXv2EHpbxNGlZsQrpMvazQ6bZOEfhjDg=="/>
-                <enclosure url="https://updates.macmusickeys.com/MacMusicKeys20260812-1.delta" sparkle:deltaFrom="1" length="2215738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ak1aqkF5szpoDECp6o1FcrcSc04HTGMOKN9/43VCDPr8X6v/JF/81JyVitu3Jh+1gBpPD1UH8G6X3/vOQsitCA=="/>
             </sparkle:deltas>
         </item>
     </channel>
